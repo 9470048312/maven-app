@@ -3,3 +3,4 @@ THIS IS MY FIRST FILE
 
 AB02
 this my second file
+CMD ECHO
